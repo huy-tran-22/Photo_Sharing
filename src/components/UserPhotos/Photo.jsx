@@ -1,5 +1,4 @@
 import { useContext, useEffect, useRef, useState } from "react"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import axios from "axios"
 import { MyContext } from "../AppContext/contextProvider"
 import { useNavigate, useParams } from "react-router-dom"
