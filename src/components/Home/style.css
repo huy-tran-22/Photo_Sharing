@@ -1,0 +1,7 @@
+.link-text{
+    display: inline-block;
+    color: #5AB2FF;
+    font-weight: bolder;
+    cursor: pointer;
+    justify-content: space-between;
+}
